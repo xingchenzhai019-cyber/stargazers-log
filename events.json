@@ -1,0 +1,29 @@
+[
+  {
+    "name": "astro",
+    "owner": "withastro",
+    "description": "The web framework for content-driven websites.",
+    "language": "TypeScript",
+    "stars": 52000,
+    "starredAt": "2026-09-12",
+    "url": "https://github.com/withastro/astro"
+  },
+  {
+    "name": "ripgrep",
+    "owner": "BurntSushi",
+    "description": "A recursively searching tool that respects your gitignore.",
+    "language": "Rust",
+    "stars": 55000,
+    "starredAt": "2026-09-06",
+    "url": "https://github.com/BurntSushi/ripgrep"
+  },
+  {
+    "name": "htmx",
+    "owner": "bigskysoftware",
+    "description": "HTML extensions for building modern user interfaces.",
+    "language": "JavaScript",
+    "stars": 41000,
+    "starredAt": "2026-08-28",
+    "url": "https://github.com/bigskysoftware/htmx"
+  }
+]
